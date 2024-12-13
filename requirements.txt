@@ -1,0 +1,8 @@
+ccxt>=4.1.13
+matplotlib>=3.8.2
+ta-lib>=0.4.28
+pandas>=2.1.4
+numpy>=1.26.2
+pytz>=2023.3.post1
+PyQt5>=5.15.10
+xlsxwriter>=3.1.9
